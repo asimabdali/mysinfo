@@ -1,0 +1,11 @@
+#These are node modules. DO NOT UPLOAD, INSTALL WITH INSTALLPKG
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+*.log
+
+# Env Files if i ever use em
+.env
+*.env
