@@ -7,7 +7,7 @@ Install Node.js
 
 Install filesx or fileswindows depending on your operating system. (filesx has no extension, fileswindows has .bat)
 
-Run installpkg in the terminal, if that throws an error, run "npm install cors multer express @google/genai" for linux, or "npm install cors multer express @google/genai protobufjs" for windows.
+Run "npm install cors multer @google/genai" in the terminal and approve all scripts.
 
 Run api in the terminal
 
